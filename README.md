@@ -30,8 +30,8 @@
 #### Top Repositories
 
 <a href="https:https://github.com/marcelorcramos/VexApp.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcelorcramos&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcelorcramos&repo=VexApp-stats&theme=buefy" />
 </a>
 <a href="https://github.com/marcelorcramos/WeatherApp.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcelorcramos&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcelorcramos&repo=WeatherApp.github.io&theme=buefy" />
 </a>
