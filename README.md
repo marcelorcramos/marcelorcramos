@@ -3,6 +3,11 @@
 - 🔭 I'm currently working on an application for electric car users. 
 - 🌱 I’m currently learning React.js/ Swift/ ...
 - 📫 How to reach me: marcelorcramos@gmail.com
+
+- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=marcelorcramos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelorcramos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
   
 ## Lenguages
 <div style="display: inline_block"><br>
