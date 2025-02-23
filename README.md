@@ -11,7 +11,7 @@
   <img align="center" alt="MarceloRamos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MarceloRamos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MarceloRamos-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="MarceloRamos-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C++/C++-original.svg">
+  <img align="center" alt="MarceloRamos-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C/C-original.svg">
 </div>
 
 ##
