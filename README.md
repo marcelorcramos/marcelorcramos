@@ -3,7 +3,7 @@
 ### VexApp 2 coming soon!
 - 🔭 I'm currently working on an application for electric car users.
 - 🌱 I’m currently learning React.js/ Swift/ ...
-- 📫 How to reach me: marcelorcramos@gmail.com / https://www.linkedin.com/in/marcelorcramos/
+- 📫 How to reach me: marcelorcramos@gmail.com 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=marcelorcramos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
