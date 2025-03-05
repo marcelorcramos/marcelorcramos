@@ -2,7 +2,7 @@
 
 - Online Portfolio: [marceloramos.pt](https://marceloramos.pt)
 - 🔭 I'm currently working on an application for electric car users.
-- 🌱 I’m currently learning React.js/ Swift/ ...
+- 🌱 I’m currently learning React.js/ Swift
 - 📫 How to reach me: marcelorcramos@gmail.com 
 
 <div align="center">
