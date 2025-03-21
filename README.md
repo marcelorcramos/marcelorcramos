@@ -1,6 +1,6 @@
   ## Olá! Sou Marcelo Ramos 
 
-- Online Portfolio: [marceloramos.pt](https://marceloramos.pt)
+- 🎱 Online Portfolio: [marceloramos.pt](https://marceloramos.pt)
 - 🔭 I'm currently working on an application for electric car users.
 - 📫 How to reach me: marcelorcramos@gmail.com 
 
