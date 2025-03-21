@@ -1,8 +1,9 @@
   ## Olá! Sou Marcelo Ramos 
 
 - 🎱 Online Portfolio: [marceloramos.pt](https://marceloramos.pt)
+- 📫 How to reach me: marcelorcramos@gmail.com
 - 🔭 I'm currently working on an application for electric car users.
-- 📫 How to reach me: marcelorcramos@gmail.com 
+ 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=marcelorcramos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
