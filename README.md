@@ -2,7 +2,6 @@
 
 - 🎱 Online Portfolio: [marceloramos.pt](https://marceloramos.pt)
 - 📫 How to reach me: marcelorcramos@gmail.com
-- 🔭 I'm currently working on an application for electric car users.
  
 
 <div align="center">
