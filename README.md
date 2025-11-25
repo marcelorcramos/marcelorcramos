@@ -2,7 +2,7 @@
 
 - 🎱 Online Portfolio: [marceloramos.pt](https://marceloramos.pt)
 - 📫 How to reach me: marcelorcramos@gmail.com
-- <img width="50" height="50" alt="linkedin" src="https://github.com/user-attachments/assets/12be95da-b52f-433c-a2b6-9f5b2c5ee61e" />
+- <img width="20" height="20" alt="linkedin" src="https://github.com/user-attachments/assets/12be95da-b52f-433c-a2b6-9f5b2c5ee61e" />
 
 
 <div align="center">
