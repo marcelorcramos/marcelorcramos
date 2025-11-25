@@ -2,6 +2,8 @@
 
 - 🎱 Online Portfolio: [marceloramos.pt](https://marceloramos.pt)
 - 📫 How to reach me: marcelorcramos@gmail.com
+- <img width="512" height="512" alt="linkedin" src="https://github.com/user-attachments/assets/12be95da-b52f-433c-a2b6-9f5b2c5ee61e" />
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=marcelorcramos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
