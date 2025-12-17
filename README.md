@@ -4,11 +4,6 @@
 - 📫 How to reach me: marcelorcramos@gmail.com
 - <img width="18" height="18" alt="linkedin" src="https://github.com/user-attachments/assets/12be95da-b52f-433c-a2b6-9f5b2c5ee61e" /> Profile: https://www.linkedin.com/in/marcelorcramos/
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelorcramos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-</div>
-
 ## 🚀 Code Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
