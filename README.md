@@ -1,10 +1,9 @@
 ## Hi! I'm Marcelo Ramos 
 
-- Brazilian-Portuguese Software Developer in Lisbon. Specialized in backend with Java, Python, and C#, and in frontend with React and TypeScript. Experience with both SQL and NoSQL databases. Currently specializing in mobile development at ISTEC Lisboa.
+**Brazilian-Portuguese Software Developer | Europe**  
 
 - 🎱 Online Portfolio: [marceloramos.pt](https://marceloramos.pt)
 - 📫 How to reach me: marcelorcramos@gmail.com
-- <img width="18" height="18" alt="linkedin" src="https://github.com/user-attachments/assets/12be95da-b52f-433c-a2b6-9f5b2c5ee61e" /> Profile: https://www.linkedin.com/in/marcelorcramos/
 
 ## 🔥 Currently focused on:
 <div style="display: inline_block"><br>
