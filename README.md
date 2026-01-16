@@ -2,8 +2,10 @@
 
 **Brazilian-Portuguese Software Developer | Europe**  
 
-- 🎱 Online Portfolio: [marceloramos.pt](https://marceloramos.pt)
-- 📫 How to reach me: marcelorcramos@gmail.com
+- 💻 Undergraduated in Software Engenieering (ISTEC LISBOA)
+- ⚙️ BackEnd System's
+- 🌐 API's development
+
 
 ## 🔥 Currently focused on:
 <div style="display: inline_block"><br>
@@ -35,5 +37,6 @@
 
 <div> <br>
   <a href = "marcelorcramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelorcramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marcelorcramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://marceloramos.pt" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
