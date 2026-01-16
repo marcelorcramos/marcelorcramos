@@ -2,9 +2,12 @@
 
 **Brazilian-Portuguese Software Developer | Europe**  
 
-- 💻 Undergraduated in Software Engenieering (ISTEC LISBOA)
-- ⚙️ BackEnd System's
-- 🌐 API's development
+- 🎓 Software Engineering (ISTEC Lisbon)
+- 💻 Backend Developer - Scalable Systems
+- ⚙️ System Architecture & Robust APIs
+- 🔄 RESTful APIs & Microservices
+- 📟 Efficient Problem Solving
+- 🛠️ Clean Code & Best Practices
 
 
 ## 🔥 Currently focused on:
