@@ -4,10 +4,7 @@
 
 - 🎓 Software Engineering (ISTEC Lisbon)
 - 💻 Backend Developer - Scalable Systems
-- ⚙️ System Architecture & Robust APIs
-- 🔄 RESTful APIs & Microservices
-- 📟 Efficient Problem Solving
-- 🛠️ Clean Code & Best Practices
+- ⚙️ System Architecture & RESTful APIs
 
 
 ## 🔥 Currently focused on:
