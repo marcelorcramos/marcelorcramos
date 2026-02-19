@@ -2,7 +2,7 @@
 
 **Brazilian-Portuguese Software Developer | Europe**  
 
-- 🎓 Software Engineering (ISTEC Lisbon)
+- 🎓 Software Engineering
 - 💻 Backend Developer - Scalable Systems
 - ⚙️ System Architecture & RESTful APIs
   
